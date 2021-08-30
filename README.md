@@ -1,3 +1,2 @@
+# Prototype for a virtual fitting room
 # SoftwareArchitecture-VFR
-
-Prototype for a virtual fitting room
